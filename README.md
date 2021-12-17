@@ -6,8 +6,11 @@ a medida que comas huevos se ira expandiendo la cola de la serpiente, por cada h
 la mayor cantidad de puntos sin que la misma serpiente se coma a si misma, si esto pasa es GameOver.
 
 JUEGO
+<br>
 ![image](https://user-images.githubusercontent.com/90360846/146600822-92861f5d-bc8c-437d-ad09-349237c79881.png)
 
+
 DIAGRAMA
+<br>
 ![image](https://user-images.githubusercontent.com/90360846/146600852-93125032-f078-4b11-a581-97deee958896.png)
 
