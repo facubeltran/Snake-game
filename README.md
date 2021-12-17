@@ -7,10 +7,12 @@ la mayor cantidad de puntos sin que la misma serpiente se coma a si misma, si es
 
 JUEGO
 <br>
-![image](https://user-images.githubusercontent.com/90360846/146600822-92861f5d-bc8c-437d-ad09-349237c79881.png)
+![image](https://user-images.githubusercontent.com/90360846/146616849-0ee46527-0e8f-49c2-9c6d-16fd5e02696e.png)
+
 
 
 DIAGRAMA
 <br>
-![image](https://user-images.githubusercontent.com/90360846/146600852-93125032-f078-4b11-a581-97deee958896.png)
+![image](https://user-images.githubusercontent.com/90360846/146616861-d23863fe-a94f-4dc0-bf4f-859bbb5e8ae2.png)
+
 
